@@ -15,8 +15,12 @@ I'm Ritabrata Chakraborty, a passionate physicist turned data enthusiast on a jo
 
 📚 **Recent Learning Adventures**
 
-- 📊 Completed multiple certification courses in Data Science on [Coursera](https://www.coursera.org/user/c9af283f463351cd9123c8fd1a61c041).
-- 🤖 Currently mastering the art of Deep Learning through [Coursera's Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
+- 🤖 Successfully completed the Machine Learning Specialization on [Coursera](https://www.coursera.org/user/c9af283f463351cd9123c8fd1a61c041).
+- 🚀 Achieved mastery in Deep Learning through the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
+- 🧮 Completed the Mathematics for Machine Learning and Data Science Specialization, enhancing foundational knowledge.
+- 🐍 Acquired proficiency in Python through the "Python for Everybody ; " course on [Coursera](https://www.coursera.org/specializations/python).
+- 📜 Gained expertise in version control with the "Introduction to Git and GitHub" courses on [Coursera](https://www.coursera.org/learn/introduction-git-github) and [Google](https://www.coursera.org/learn/introduction-git-github).
+- 🧠 Successfully completed the "Learning How to Learn" course, honing essential learning skills for continuous improvement.
 
 🤝 **Let's Connect!**
 
