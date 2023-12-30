@@ -25,6 +25,7 @@ I'm Ritabrata Chakraborty, a passionate physicist turned data enthusiast on a jo
 🤝 **Let's Connect!**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ritabrata-chakraborty-065201257/)
+- 🧑🏻‍💻 [Portfolio Website](https://ritochak.github.io/Portfolio_Website/)
 
 📈 **GitHub Stats**
 
@@ -32,6 +33,6 @@ I'm Ritabrata Chakraborty, a passionate physicist turned data enthusiast on a jo
 
 🎯 **Current Goals**
 
-- ✨ Sharpening skills in Deep Learning.
+- ✨ Sharpening skills in Machine Learning & Deep Learning end to end projects.
 
 Feel free to explore my repositories, and let's collaborate on something amazing! 🌟
