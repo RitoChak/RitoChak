@@ -11,10 +11,11 @@ I'm Ritabrata Chakraborty, a passionate physicist turned data enthusiast on a jo
 🛠️ **Tech Stack**
 
 - **Languages:** Python
-- **Tools & Frameworks:** TensorFlow, scikit-learn
+- **Skills:** Tableau, Spreasheet, SQL, Machine Learning, Deep Learning, Neural Networks
 
 📚 **Recent Learning Adventures**
 
+- 📊 Completed the Google Data Analytics Professional Certificate, adding expertise in data analysis to a skill set that includes machine learning, deep learning, mathematics, and Python.
 - 🤖 Successfully completed the Machine Learning Specialization on [Coursera](https://www.coursera.org/user/c9af283f463351cd9123c8fd1a61c041).
 - 🚀 Achieved mastery in Deep Learning through the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
 - 🧮 Completed the Mathematics for Machine Learning and Data Science Specialization, enhancing foundational knowledge.
