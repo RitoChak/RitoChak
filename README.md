@@ -11,7 +11,7 @@ I'm Ritabrata Chakraborty, a passionate physicist turned data enthusiast on a jo
 🛠️ **Tech Stack**
 
 - **Languages:** Python
-- **Skills:** Tableau, Spreasheet, SQL, Machine Learning, Deep Learning, Neural Networks
+- **Skills:** Tableau, Spreadsheet, SQL, Machine Learning, Deep Learning, Neural Networks, NLP
 
 📚 **Recent Learning Adventures**
 
