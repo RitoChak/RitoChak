@@ -26,7 +26,7 @@ I'm Ritabrata Chakraborty, a passionate physicist turned data enthusiast on a jo
 🤝 **Let's Connect!**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ritabrata-chakraborty-065201257/)
-- 🧑🏻‍💻 [Portfolio Website](https://ritochak.github.io/Portfolio_Website/)
+- 🧑🏻‍💻 [Portfolio Website](https://ritochak.github.io/Portfolio-Website-New/)
 
 📈 **GitHub Stats**
 
