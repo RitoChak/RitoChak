@@ -1,39 +1,68 @@
-# Hello, World! 👋
+# Hi there, I'm Ritabrata Chakraborty 👋
 
-I'm Ritabrata Chakraborty, a passionate physicist turned data enthusiast on a journey to explore the intersection of science and technology.
+🎓 Physicist by training. Data Analyst & Data Scientist by pursuit.
 
-🚀 **About Me**
+I hold an **M.Sc. in Physics (Solid State Physics)** from Osmania University and a **B.Sc.** from Vidyasagar College, Calcutta University. After years of studying the physical world, I pivoted to the world of data and haven't looked back since. My work spans **data analytics, machine learning, deep learning, and NLP research**.
 
-- 🔬 M.Sc. in Physics, exploring the wonders of the universe.
-- 💻 Currently diving deep into the realms of Data Science, Machine Learning, and Deep Learning.
-- 🌐 Enthusiastic about open-source contributions and collaborative projects.
+---
 
-🛠️ **Tech Stack**
+## 🔬 Research Experience
 
-- **Languages:** Python
-- **Skills:** Tableau, Spreadsheet, SQL, Machine Learning, Deep Learning, Neural Networks, NLP
+**Research Intern : IIT Kharagpur** *(July 2024 - January 2025)*
+Under the supervision of **Prof. Animesh Mukherjee**, I contributed to NLP research focused on cross-lingual knowledge transfer. This work culminated in a peer-reviewed publication:
 
-📚 **Recent Learning Adventures**
+> **[On the Effective Transfer of Knowledge from English to Hindi Wikipedia](https://aclanthology.org/2025.coling-industry.39/)**
+> Paramita Das, Amartya Roy, Ritabrata Chakraborty, Animesh Mukherjee
+> *Published at **COLING 2025***
 
-- 📊 Completed the [Google Data Analytics Professional Certificate](https://coursera.org/share/97540d91029f2c02c22653f41946d201), adding expertise in data analysis to a skill set that includes machine learning, deep learning, mathematics, and Python.
-- 🤖 Successfully completed the [Machine Learning Specialization](https://www.coursera.org/user/c9af283f463351cd9123c8fd1a61c041) on Coursera.
-- 🚀 Achieved mastery in Deep Learning through the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
-- 🧮 Completed the [Mathematics for Machine Learning and Data Science Specialization](https://coursera.org/share/f6e4c0b08298660a17941b2b638d1e3c), enhancing foundational knowledge.
-- 🐍 Acquired proficiency in Python through the "Python for Everybody ; " course on [Coursera](https://www.coursera.org/specializations/python).
-- 📜 Gained expertise in version control with the Introduction to Git and GitHub courses on [Coursera](https://www.coursera.org/learn/introduction-git-github) and [Google](https://www.coursera.org/learn/introduction-git-github).
-- 🧠 Successfully completed the [Learning How to Learn](https://coursera.org/share/201a87d2036813c2b4447ce7bca2fc46) course, honing essential learning skills for continuous improvement.
+---
 
-🤝 **Let's Connect!**
+## 🛠️ Tech Stack
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ritabrata-chakraborty-065201257/)
-- 🧑🏻‍💻 [Portfolio Website](https://ritochak.github.io/Portfolio-Website-New/)
+**Languages & Tools**
+`Python` `SQL` `Spreadsheets (Google Sheets / Excel)` `Power BI` `Tableau`
 
-📈 **GitHub Stats**
+**Data & Analytics**
+`Pandas` `NumPy` `Statistics` `Data Analytics` `Data Visualization`
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RitoChak&show_icons=true&theme=radical)
+**Machine Learning & AI**
+`Machine Learning` `Deep Learning` `Neural Networks` `NLP`
 
-🎯 **Current Goals**
+**Project & Workflow Management**
+`Git` `GitHub` `Jira` `Agile`
 
-- ✨ Sharpening skills in Machine Learning & Deep Learning end to end projects.
+---
 
-Feel free to explore my repositories, and let's collaborate on something amazing! 🌟
+## 📜 Certifications & Learning
+
+| Certificate | Issuer |
+|---|---|
+| [Google Data Analytics Professional Certificate](https://coursera.org/share/97540d91029f2c02c22653f41946d201) | Google / Coursera |
+| [DeepLearning.AI Data Analytics](https://coursera.org/share/9f20b02987ffa825fa2d79a7292a6f0b) | DeepLearning.AI / Coursera |
+| [Harnessing the Power of Data with Power BI](https://coursera.org/share/847f044c77743af3d4ce54b287b4517a) | Microsoft / Coursera |
+| [Machine Learning Specialization](https://www.coursera.org/user/c9af283f463351cd9123c8fd1a61c041) | DeepLearning.AI / Coursera |
+| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI / Coursera |
+| [Mathematics for Machine Learning and Data Science](https://coursera.org/share/f6e4c0b08298660a17941b2b638d1e3c) | DeepLearning.AI / Coursera |
+| [Agile Project Management](https://coursera.org/share/b3d224c6f290b4a5448c8bf715895d79) | Google / Coursera |
+| [Introduction to Jira](https://coursera.org/share/5aea8b5a930789e91d70dde849f6a156) | Atlassian / Coursera |
+| [Python for Everybody](https://www.coursera.org/specializations/python) | University of Michigan / Coursera |
+| [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Google / Coursera |
+| [Learning How to Learn](https://coursera.org/share/201a87d2036813c2b4447ce7bca2fc46) | Coursera |
+
+---
+
+## 🎯 Currently Working On
+
+- **Bias Removal in Vision-Language Models (VLMs)** — Research project in collaboration with **IIT Kharagpur**
+- Building end-to-end Data Analytics & Machine Learning projects
+- Deepening expertise in NLP and multimodal AI
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritabrata-chakraborty-065201257/)
+
+---
+
+*Feel free to explore my repositories and reach out for collaborations!* 🌟
